@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pdas/static/css/main.1b37fbf0.css",
+    "main.js": "/pdas/static/js/main.21b131c2.js",
+    "static/media/siri.png": "/pdas/static/media/siri.e6a70a555204b3a1f6f0.png",
+    "index.html": "/pdas/index.html",
+    "main.1b37fbf0.css.map": "/pdas/static/css/main.1b37fbf0.css.map",
+    "main.21b131c2.js.map": "/pdas/static/js/main.21b131c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b37fbf0.css",
+    "static/js/main.21b131c2.js"
+  ]
+}
